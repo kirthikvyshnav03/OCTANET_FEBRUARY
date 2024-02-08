@@ -1,1 +1,1 @@
-# OctaNet_February
+Hello !!! Welcome to my Profile. This Repository which I Created for Octanet Services in Web Development Internship tasks. It consists of 2 tasks such as Landing Page (task 1) , To Do List (task 2). I divided these tasks as Two files and each file (each task) having its code which includes HTML , CSS Code.
